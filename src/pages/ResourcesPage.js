@@ -4,12 +4,13 @@ function ResourcesPage() {
   return (
     <>
     <div className="top-bar">
-    <h1>Resources Page</h1>
-    </div>
-    <div className="container">
-        <div classname ="header">
+  
             <h1 >Information and Resources</h1>
+
         </div>
+
+    <div className="container">
+       
        
         <div className="content">
             <h2>Technology Safety & Privacy Toolkit for Survivors</h2>
@@ -82,7 +83,7 @@ function ResourcesPage() {
         </div>
        
     </div>
-    
+
     <ul>
         <li>
           <h4>Grand Rapids Michigan </h4>
@@ -134,9 +135,6 @@ function ResourcesPage() {
     <div style={{marginLeft: "1rem", marginBottom: "1rem"}}>
     <AddResource/>
     </div>
-
-
-   
   </>
   )
 }

@@ -30,6 +30,8 @@ const Topics = () => {
         </div>
 
  <div className="main">
+  <h3 style={{textAlign: "left"}}>Join the conversation by clicking on one of the discussion topics below.</h3>
+
 <column style={{   
   height: "fit-content",
    margin: "auto",
@@ -86,7 +88,8 @@ const Topics = () => {
  </column>
 
         <column>
-        <img src={Wheel} style={{border: "2px solid black", width: "45%", marginLeft: "50%", marginTop: "-53.5rem", marginBottom: "60rem"
+      
+        <img src={Wheel} style={{border: "2px solid black", width: "45%", marginLeft: "50%", marginTop: "-60rem", marginBottom: "17rem"
     }}/>
 
         </column>

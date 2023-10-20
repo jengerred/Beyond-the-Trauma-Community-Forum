@@ -11,7 +11,7 @@ const formattedDate = date.toLocaleDateString();
   return (
     <>
      <div style={{display: "flex"}}>
-  <column style={{ border: "2px solid black", marginBottom: "1rem", padding: "1rem", width: "30%"}}>
+  <column style={{ border: "2px solid black", marginBottom: "1rem", padding: "1rem", width: "30%", minWidth: "18rem"}}>
     <li className="row">
         <a href={props.link}>
         <h4 className="title"> {props.title}</h4>

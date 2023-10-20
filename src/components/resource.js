@@ -14,7 +14,7 @@ const AddResource = () => {
 
 
   const addPost = () => {
-    setPosts([...posts, data, category, title, location, description, formattedDate]);
+    setPosts([...posts, category, title, location, description, formattedDate, data, data]);
   };
 
   const date = new Date();

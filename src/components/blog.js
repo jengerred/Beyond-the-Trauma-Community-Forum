@@ -7,9 +7,11 @@ const Blogger = ({ posts }) => {
 const Blog = () => {
   const [posts, setPosts] = useState([]);
   const [data, setData] = useState();
+  const [username, setUsername] = useState();
+  const [comment, setComment] = useState();
 
   const addPost = () => {
-    setPosts([...posts, data]);
+    setPosts([...posts, comment, username, formattedDate, data, data]);
   };
 
   const date = new Date();
@@ -25,30 +27,57 @@ const Blog = () => {
        </div>
        <div className="comment-content">
     
-       <p className="user" style={{fontSize: ".8rem", fontWeight: "bold"}}>
-        Username
-      </p>
-
-       <div className="bottom">
-            <p className="timestamp"> {formattedDate}</p>
-        </div>
-
-    
        </div>
         </div>
         </div>
       <div>
       <p>Please enter your comments here:</p>
+
         <textarea
-          value={data}
-          onChange={(e) => setData(e.target.value)}
+        required
+          value={comment}
+          onChange={(e) => setComment(e.target.value)}
         ></textarea>
+        <br/>
+<br/>
+           <label style={{marginRight: ".5rem"}}>Username:</label>
+<input
+              id="username"
+              style={{padding: ".5rem"}}
+              placeholder="Enter a Username"
+              type="text"
+              value={posts.username}
+              onChange={(e) => setUsername(e.target.value)}
+/>
+
+       <div className="bottom">
+            <p className="timestamp"> {formattedDate}</p>
+        </div>
+
+        <input
+   id="data"
+   style={{display: "none"}}
+              placeholder="Enter a category"
+              type="text"
+              value={posts.data}
+              onChange={(e) => setData(e.target.value)}
+/>
         <button onClick={addPost}>Add Comment</button>
       </div>
+      <hr style={{height: "2px", backgroundColor: "black"}}></hr>
+
       <div>
-        <Blogger posts={posts} />
+        <Blogger  posts={posts}/>
       </div>
-    </div>
+
+      <style jsx>
+        {`
+        .timestamp {
+            margin-bottom: 1rem;
+        }
+        `}
+        </style>
+ </div>
   );
 };
 export default Blog;

@@ -36,7 +36,7 @@ const Topics = () => {
   height: "fit-content",
    margin: "auto",
    textAlign: "center"}}>
- <ol>
+ <ol style={{listStyle: "none"}}>
 
   {/** 
  <li className="row">
@@ -89,7 +89,7 @@ const Topics = () => {
 
         <column>
       
-        <img src={Wheel} style={{border: "2px solid black", width: "45%", marginLeft: "50%", marginTop: "-60rem", marginBottom: "17rem"
+        <img src={Wheel} style={{border: "2px solid black", width: "45%", marginLeft: "50%", marginTop: "-40rem", marginBottom: "10rem"
     }}/>
 
         </column>

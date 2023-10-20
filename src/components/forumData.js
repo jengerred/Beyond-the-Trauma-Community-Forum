@@ -46,15 +46,15 @@ function ForumData(props) {
    
 
        <br/> 
-       <p style={{fontWeight: "bold"}}>Can you think of a situation or a time that you feel this tactic was used? Please Comment below.</p>
+      
     
         </div>
       <hr style={{height: "2px", backgroundColor: "black"}}></hr>
        <br/>
-
+       <p style={{fontWeight: "bold", textAlign:"center"}}>Can you think of a situation or a time that you feel this tactic was used?  Please Comment below.</p>
 
        <Blog/>
-       <Reply/>
+       {/*<Reply/>*/}
         </div>
     
     </>

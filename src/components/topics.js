@@ -1,6 +1,8 @@
 // Import the necessary React libraries
 import React, { useState } from 'react';
-import TopicsData from './topicsData'
+import TopicsData from './topicsData';
+import Wheel from '../images/Wheel.png';
+
 // Create a new React component to represent the forum
 const Topics = () => {
   // Create state to store the forum posts
@@ -28,6 +30,10 @@ const Topics = () => {
         </div>
 
  <div className="main">
+<column style={{   
+  height: "fit-content",
+   margin: "auto",
+   textAlign: "center"}}>
  <ol>
 
   {/** 
@@ -77,6 +83,15 @@ const Topics = () => {
 
     />
  </ol>
+ </column>
+
+        <column>
+        <img src={Wheel} style={{border: "2px solid black", width: "45%", marginLeft: "50%", marginTop: "-53.5rem", marginBottom: "60rem"
+    }}/>
+
+        </column>
+
+
 </div>
 
 

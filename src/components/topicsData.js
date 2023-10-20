@@ -10,10 +10,8 @@ const formattedDate = date.toLocaleDateString();
 
   return (
     <>
-
-
-   
-
+     <div style={{display: "flex"}}>
+  <column style={{ border: "2px solid black", marginBottom: "1rem", padding: "1rem", width: "30%"}}>
     <li className="row">
         <a href={props.link}>
         <h4 className="title"> {props.title}</h4>
@@ -22,10 +20,10 @@ const formattedDate = date.toLocaleDateString();
        {/*} <p className="comment-count">${props.comments.length} </p>*/}
         </div>
         </a>
+   
     </li>
-
-
-
+    </column>
+    </div>
     </>
   )
 }

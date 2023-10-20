@@ -4,7 +4,7 @@ function HomePage() {
   return (
     <>
     <div className="top-bar">
-    <h1>Home Page</h1>
+    <h1>Beyond the Trauma</h1>
     </div>
   </>
   )

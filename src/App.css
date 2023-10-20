@@ -1,0 +1,51 @@
+body {
+  width: 90%;
+  margin: auto;
+  margin-top: 1rem;
+  border: 2px solid black;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+h1 {
+  text-align: center;
+}
+ h4 {
+  margin: 0;
+}
+p {
+  margin: 5px 0;
+}
+textarea {
+  width: 80%;
+  height: 80px;
+}
+button {
+  display: block;
+  margin: 10px 0;
+
+}
+.comments {
+  padding-bottom: 1rem;
+}
+
+.top-bar {
+background-color: rgb(174, 172, 172);
+padding: 5px;
+}
+.main {
+  background-color: whitesmoke;
+  padding: 10px 40px;
+}
+.row {
+  padding: 5px 0;
+}
+.bottom {
+  display: flex;
+  color: grey;
+  font-size: 12px;
+}
+.timestamp {
+padding-right: 10px;
+}

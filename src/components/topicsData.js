@@ -10,7 +10,7 @@ const formattedDate = date.toLocaleDateString();
   return (
     <>
      <div style={{display: "flex"}}>
-  <column style={{ border: "2px solid black", marginBottom: "1rem", padding: "1rem", width: "30%", minWidth: "18rem"}}>
+  <column className="list">
     <li className="row">
         <a href={props.link}>
         <h4 className="title"> {props.title}</h4>
@@ -22,6 +22,22 @@ const formattedDate = date.toLocaleDateString();
    
     </li>
     </column>
+
+    <style jsx>
+        {`
+        .list {
+            border: 2px solid black;
+            margin: 1rem;
+            width: 30%;
+            min-width: 18rem;
+            padding: 1rem;
+        }
+        .list:hover {
+          box-shadow: 5px 10px 8px 10px #888888;
+          transform: scale(1.1);
+        }
+        `}
+        </style>
     </div>
     </>
   )

@@ -89,7 +89,7 @@ const Topics = () => {
 
         <column>
       
-        <img src={Wheel} style={{border: "2px solid black", width: "45%", marginLeft: "50%", marginTop: "-40rem", marginBottom: "10rem"
+        <img src={Wheel} style={{border: "2px solid black", width: "45%", marginLeft: "50%", marginTop: "-50rem", marginBottom: "10rem"
     }}/>
 
         </column>

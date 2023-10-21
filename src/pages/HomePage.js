@@ -13,7 +13,16 @@ function HomePage() {
         Domestic violence is a complex issue that affects millions of women worldwide. Many women ask for help but cannot get the resources they need due to social barriers or limited resources. This disucssion forum will provide a safe environment for users to share stories, access resources, support each other, and, most of all, begin to <b>heal</b>.
         Your safety is our top priority, which is why our registration process is <b>secure</b> and <b>anonymous</b>. We have implemented a passwordless system using passkeys that require a fingerprint, face scan, or a personal identification number (PIN). To get started, create a username and setup a passkey.
       </p>
-      <img src={HeroImage}  />
+      <div>
+      <img src={HeroImage} className="hero-image" />
+      </div>
+     
+      <style jsx>
+      .hero-image{
+
+      }
+
+      </style>
     </div>
 
     <TopicsPage/>

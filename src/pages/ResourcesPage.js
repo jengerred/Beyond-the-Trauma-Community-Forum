@@ -15,7 +15,7 @@ function ResourcesPage() {
         <div className="content">
             <h2>Technology Safety & Privacy Toolkit for Survivors</h2>
             <p>
-                Resources from Safety Net Project for survivors on how to be safe using technology. 
+                Resources from the Safety Net Project for survivors on how to be safe using technology. 
                 <br/>
                 <a href="https://www.techsafety.org/resources-survivors">Technology Safety & Privacy Toolkit</a>
             </p>

@@ -113,6 +113,7 @@ const AddResource = () => {
             background: #33cccc;
         }
     ul {
+      list-style-type: none;
       text-align: center;
     }
         `}

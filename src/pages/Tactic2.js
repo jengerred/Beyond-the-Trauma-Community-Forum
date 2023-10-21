@@ -7,10 +7,9 @@ function Tactic2() {
 <ForumData
 title="Using Intimidation"
 text="Some examples of using inimmidation are:" 
-list ="making her afraid by using looks, 
-actions or gestures"
+list ="using looks, actions or gestures"
 list2="smashing things"
-list3="destroying her property"
+list3="destroying property"
 list4 = " abusing pets"
 list5 = "displaying weapons"
 

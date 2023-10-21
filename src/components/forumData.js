@@ -27,7 +27,7 @@ function ForumData(props) {
         </div>
        
         <div className="main">
-        <p style={{textAlign: "center",  border: "2px solid black", padding: "1rem", background: "white"}}>Share your story and start a conversation.</p>
+        <p style={{textAlign: "center",  border: "2px solid black", padding: "1rem", background: "white"}}>Share your story and start a conversation. These conversations are moderated to ensure everyone is safe from harassment, abuse, or spam (see our Code of Conduct page for posting guidelines). Please notify us immediately if you believe a post does not follow our guidelines.</p>
         <div className="header" style={{textAlign: "center"}}>
         <br/>
         <h2 className="title"> Tactic: {props.title}</h2>

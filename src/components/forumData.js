@@ -23,7 +23,7 @@ function ForumData(props) {
   return (
     <>
     <div className="top-bar">
-        <h1>Beyond the Trauma Community Forum</h1>
+        <h1>Beyond the Trauma Community Forum: Grand Rapids, Michigan</h1>
         </div>
        
         <div className="main">

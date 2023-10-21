@@ -1,7 +1,7 @@
 import React from 'react';
 import TopicsPage from './TopicsPage';
 import ResourcesPage from './ResourcesPage';
-import HeroImage from '.../images/hero_image.jpg';
+import HeroImage from '../images/hero_image.jpg';
 
 function HomePage() {
   return (

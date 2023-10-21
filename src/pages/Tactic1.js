@@ -10,7 +10,7 @@ text="An abuser may use threats to pursuade you to do things you normally would 
 list="commit physical harm"
 list2="leave her"
 list3="commit suicide"
-list4 = "report her to welfare"
+list4 = "report her to authorities"
 
 />
 </>

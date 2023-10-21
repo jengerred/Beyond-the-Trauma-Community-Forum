@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-
+import './NavBar.css'
 import {Link} from 'react-router-dom';
 
 
@@ -32,8 +32,9 @@ window.addEventListener('resize', showButton);
   <nav className="navbar">
     <div className="navbar-container">
 
+
         <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-        <i className="fa fa-home fa-fw" aria-hidden="true"></i>
+        <i className="fa fa-home fa-fw" aria-hidden="true">Beyond The Trauma</i>
 
         </Link>
 

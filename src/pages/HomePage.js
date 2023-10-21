@@ -5,14 +5,14 @@ import ResourcesPage from './ResourcesPage';
 function HomePage() {
   return (
     <>
-    <div className="top-bar">
-    <h1>Beyond the Trauma</h1>
-    </div>
+    <h3 style={{margin: "1rem", textAlign: "center"}}>Beyond The Trauma Community Forum</h3>
+    <h5 style={{margin: "1rem", textAlign: "center"}}> A platform for women who are domestic violence survivors to find peer support, information, and resources.</h5>
     <div style={{height: "10rem"}}>
-      <p>
+      <p style={{margin: "1rem"}}>
         Description of what the project is and why 
       </p>
     </div>
+
     <TopicsPage/>
     <ResourcesPage/>
   </>

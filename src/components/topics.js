@@ -89,11 +89,30 @@ const Topics = () => {
 
         <column>
       
-        <img src={Wheel} style={{border: "2px solid black", width: "45%", marginLeft: "50%", marginTop: "-50rem", marginBottom: "10rem"
-    }}/>
+        <img src={Wheel} className="image" />
 
         </column>
 
+        <style jsx>
+        {`
+        .image {
+            border: 2px solid black;
+            margin-left: 50%;
+            margin-top: -50rem;
+            margin-bottom: 10rem;
+            width: 45%;
+            min-width: 18rem;
+          
+        }
+        @media screen and (max-width: 1200px) {
+          .image {
+            display: grid;
+            margin: auto;
+          }
+        }
+       
+        `}
+        </style>
 
 </div>
 

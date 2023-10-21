@@ -9,7 +9,7 @@ const formattedDate = date.toLocaleDateString();
 
   return (
     <>
-     <div style={{display: "flex"}}>
+     <div className="table">
   <column className="list">
     <li className="row">
         <a href={props.link}>
@@ -35,6 +35,14 @@ const formattedDate = date.toLocaleDateString();
         .list:hover {
           box-shadow: 5px 10px 8px 10px #888888;
           transform: scale(1.1);
+        }
+        .table {
+          display: flex;
+        }
+        @media screen and (max-width: 1200px) {
+          .table {
+            display: grid;
+          }
         }
         `}
         </style>

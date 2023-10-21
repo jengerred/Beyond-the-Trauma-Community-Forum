@@ -18,9 +18,12 @@ function HomePage() {
       </div>
      
       <style jsx>
-      .hero-image{
-
+      {`
+       .hero-image{
+        margin-left: 45%;
       }
+        `}
+      
 
       </style>
     </div>

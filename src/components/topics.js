@@ -30,7 +30,7 @@ const Topics = () => {
         </div>
 
  <div className="main">
-  <h3 style={{textAlign: "left"}}>Join the conversation by clicking on one of the discussion topics below.</h3>
+  <h3 className="heading-text">Join the conversation by clicking on one of the discussion topics below.</h3>
 
 <column style={{   
   height: "fit-content",
@@ -95,6 +95,9 @@ const Topics = () => {
 
         <style jsx>
         {`
+        .heading-text {
+          text-align: left;
+        }
         .image {
             border: 2px solid black;
             margin-left: 50%;

@@ -33,7 +33,7 @@ function ForumData(props) {
         <h2 className="title"> Tactic: {props.title}</h2>
       <p>{props.text}</p>
 
-     <ul style={{listStylePosition: "inside", width: "60%", margin: "auto", textAlign: "left"}}>
+     <ul style={{listStylePosition: "inside", width: "25%", margin: "auto", textAlign: "left"}}>
         <li>{props.list}</li>
         <li>{props.list2}</li>
         <li>{props.list3}</li>

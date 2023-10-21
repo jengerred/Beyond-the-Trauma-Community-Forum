@@ -5,7 +5,7 @@ function ResourcesPage() {
     <>
     <div className="top-bar">
   
-            <h1 >Information and Resources</h1>
+            <h1 >Information and Resources: Grand Rapids, Michigan</h1>
 
         </div>
 

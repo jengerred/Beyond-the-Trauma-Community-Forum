@@ -25,7 +25,7 @@ const Topics = () => {
  <>
 
  <div className="top-bar">
-    <h1 style={{fontWeight: "400"}}>Tactics of Abuse</h1>
+    <h1 style={{fontWeight: "600"}}>Tactics of Abuse</h1>
         <h1 >Discussion Topics</h1>
         </div>
 

@@ -24,9 +24,7 @@ function HomePage() {
         margin: auto;
         text-align: center;
       }
-       .hero-image{
-        margin-left: 40%;
-      }
+      
       @media screen and (max-width: 1200px) {
         .hero-image {
           display: grid;

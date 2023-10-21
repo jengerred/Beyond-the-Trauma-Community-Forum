@@ -112,7 +112,12 @@ const AddResource = () => {
             text-align: center;
             background: #33cccc;
         }
-        
+        h4 {
+          text-align: center
+        }
+        p {
+          text-align: center;
+        }
         `}
       </style>
     </div>

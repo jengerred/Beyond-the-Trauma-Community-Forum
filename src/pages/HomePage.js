@@ -26,10 +26,10 @@ function HomePage() {
         grid-template-columns: min-content 1fr;
       }
 
-      hero-image{
+      .hero-image{
         height: 15rem;
       }
-      
+
       @media screen and (max-width: 1200px) {
         .hero-image {
           display: grid;

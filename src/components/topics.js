@@ -98,9 +98,7 @@ const Topics = () => {
         .heading-text {
           text-align: left;
         }
-        ul {
-        text-align: center;
-      }
+    
         .image {
             border: 2px solid black;
             margin-left: 50%;

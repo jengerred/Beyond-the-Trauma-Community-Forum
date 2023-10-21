@@ -5,8 +5,8 @@ function Tactic3() {
   return (
    <>
    <ForumData
-   title="Using Emotional Abuse"
-   text="Some examples of using emotional abuse are:" 
+   title="Emotional Abuse"
+   text="Some examples of emotional abuse are:" 
    list ="putting her down"
    list2="making her feel bad about herself"
    list3="calling her names"

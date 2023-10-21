@@ -23,11 +23,11 @@ function ForumData(props) {
   return (
     <>
     <div className="top-bar">
-        <h1>Beyond the Trauma Community Forum</h1>
+        <h1>Beyond the Trauma Community Forum: Grand Rapids, Michigan</h1>
         </div>
        
         <div className="main">
-        <p style={{textAlign: "center",  border: "2px solid black", padding: "1rem", background: "white"}}>Share your story and start a conversation so we can all heal together.</p>
+        <p style={{textAlign: "center",  border: "2px solid black", padding: "1rem", background: "white"}}>Share your story and start a conversation. These conversations are moderated to ensure everyone is safe from harassment, abuse, or spam (see our Code of Conduct page for posting guidelines). Please notify us immediately if you believe a post does not follow our guidelines.</p>
         <div className="header" style={{textAlign: "center"}}>
         <br/>
         <h2 className="title"> Tactic: {props.title}</h2>
@@ -51,7 +51,7 @@ function ForumData(props) {
         </div>
       <hr style={{height: "2px", backgroundColor: "black"}}></hr>
        <br/>
-       <p style={{fontWeight: "bold", textAlign:"center"}}>Can you think of a situation or a time that you felt this tactic was used? Please share your story below.</p>
+       <p style={{fontWeight: "bold", textAlign:"center"}}>Do you have an experience where you felt this tactic was used? Please share your story below.</p>
 
        <Blog/>
        {/*<Reply/>*/}

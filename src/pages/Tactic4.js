@@ -5,10 +5,10 @@ function Tactic4() {
   return (
    <>
    <ForumData 
-      title="Using Isolation"
+      title="Isolation"
       text="Some examples of using isolation are:" 
-      list ="controlling what she does, who she sees, and talks to, what she reads, where she goes"
-      list2="limiting her outside involvement"
+      list ="controlling what she does, who she sees, who she talks to, what she reads, and where she goes"
+      list2="limiting interactions with her social network"
       list3="using jealousy to justify actions"
    />
    </>

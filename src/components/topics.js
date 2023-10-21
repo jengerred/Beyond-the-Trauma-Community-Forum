@@ -53,7 +53,7 @@ const Topics = () => {
 
     <TopicsData
     link='/Tactic1'
-    title="Using Coercion & Threats"
+    title="Coercion & Threats"
     />
     <TopicsData
     link='/Tactic2'
@@ -73,7 +73,7 @@ const Topics = () => {
     />
         <TopicsData
  link='/Tactic6'
-    title="Using Children"
+    title="Children"
     />
         <TopicsData
     link='/Tactic7'

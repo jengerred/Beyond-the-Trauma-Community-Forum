@@ -6,13 +6,11 @@ function Tactic1() {
 <>
 <ForumData
 title=" Using Coercion & Threats"
-text="Some examples of using coercion and threats include:"
-list="making and/or carrying out threats to do something to hurt her"
-list2="threatening to leave her"
-list3=" to commit suicide"
-list4 = " to report her to welfare"
-list5 = "making her drop charges"
-list6 = "making her do illegal things."
+text="An abuser may use threats to pursuade you to do things you normally would not do, such as dropping charges against them or performing illegal activity. Examples include threatening to:"
+list="commit physical harm"
+list2="leave her"
+list3="commit suicide"
+list4 = "report her to welfare"
 
 />
 </>

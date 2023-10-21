@@ -5,7 +5,7 @@ function Tactic1() {
   return (
 <>
 <ForumData
-title=" Using Coercion & Threats"
+title="Coercion & Threats"
 text="An abuser may use threats to pursuade you to do things you normally would not do, such as dropping charges against them or performing illegal activity. Examples include threatening to:"
 list="commit physical harm"
 list2="leave her"

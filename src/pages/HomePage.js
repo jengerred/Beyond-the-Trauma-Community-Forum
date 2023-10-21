@@ -9,7 +9,7 @@ function HomePage() {
     <h1 style={{margin: "1rem", textAlign: "center"}}>Beyond The Trauma Community Forum: Grand Rapids, Michigan</h1>
     <h4 style={{margin: "1rem", textAlign: "center"}}> A platform for women in the Grand Rapids area who are domestic violence survivors to find peer support, information, and resources.</h4>
     
-    <div className="home-container" style={{height: "50rem"}}>
+    <div className="home-container" style={{height: "20rem"}}>
     <div className="home-image">
       <img src={HeroImage} className="hero-image" />
       </div>
@@ -26,6 +26,9 @@ function HomePage() {
         grid-template-columns: min-content 1fr;
       }
 
+      hero-image{
+        height: 15rem;
+      }
       
       @media screen and (max-width: 1200px) {
         .hero-image {

@@ -20,7 +20,13 @@ function HomePage() {
       <style jsx>
       {`
        .hero-image{
-        margin-left: 45%;
+        margin-left: 40%;
+      }
+      @media screen and (max-width: 1200px) {
+        .hero-image {
+          display: grid;
+          margin: auto;
+        }
       }
         `}
       

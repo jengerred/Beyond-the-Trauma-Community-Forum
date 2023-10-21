@@ -24,8 +24,8 @@ const AddResource = () => {
     <div>
      
       <div>
-        <h3 style={{marginTop: "5rem"}}>Do you know information or resources not listed above?</h3>
-      <h4>Share Your Resource Here:</h4>
+        <h3 style={{marginTop: "5rem"}}>Do you have information or resources to add?</h3>
+      <h4> Share it with us!:</h4>
  {/*
  FORM: 
 

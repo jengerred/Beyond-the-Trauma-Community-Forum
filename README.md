@@ -15,7 +15,7 @@
 
 # This project was created using React, see below for how to use and install on your local machine. 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -12,7 +12,7 @@ function ResourcesPage() {
     <div className="container">
        
        
-        <div className="content">
+        <div className="content"  style={{padding: "1rem"}}>
             <h2>Technology Safety & Privacy Toolkit for Survivors</h2>
             <p>
                 Resources from the Safety Net Project for survivors on how to be safe using technology. 

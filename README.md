@@ -2,7 +2,7 @@
 
 # Beyond-the-Trauma-Community-Forum
 
-## Team Members: Jennifer Gerred, Kara Evans, Stephanie Kan, Zainab
+## Team Members: Jennifer Gerred [https://github.com/jengerred] (https://github.com/jengerred), Kara Evans https://github.com/ke177409, Stephanie Kan https://github.com/starrydrift, Zainab
  
 ## We propose to create an online forum called Beyond the Trauma Community Forum, a platform for women who are domestic violence survivors to find peer support, information, and resources. 
 

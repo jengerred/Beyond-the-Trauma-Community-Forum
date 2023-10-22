@@ -25,7 +25,7 @@
     - A components folder with code for each webpage element.
     - An images folder containing project visualizations.
     - A pages folder with code for each section.
-    
+
 <img width="231" alt="Screen Shot 2023-10-22 at 3 45 49 PM" src="https://github.com/jengerred/Beyond-the-Trauma-Community-Forum/assets/56004257/7477e6ca-294c-4e13-a981-d23a2aeefc8c">
 
 # This project was created using React, see below for how to use and install on your local machine. 

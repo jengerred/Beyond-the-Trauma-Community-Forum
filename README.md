@@ -1,3 +1,20 @@
+# Beyond-the-Trauma-Community-Forum
+
+## Team Members: Jennifer Gerred, Kara Evans, Stephanie Kan, Zainab
+ 
+## We propose to create an online forum called Beyond the Trauma Community Forum, a platform for women who are domestic violence survivors to find peer support, information, and resources. 
+
+## Domestic violence is a pervasive and complex issue that affects millions of women worldwide. Many survivors face barriers to accessing support services, such as stigma, isolation, fear, or lack of resources. They may also struggle with emotional and psychological trauma, low self-esteem, and lack of empowerment. How can we create a safe and supportive online space for women who are domestic violence survivors to connect, share, and heal?
+
+
+## We would like to implement more features including: 
+    - A secure and anonymous registration and login process that protects the identity and privacy of the users.
+    - A user-friendly and intuitive interface that allows users to navigate with ease
+    - A moderation system that ensures the forum is free from harassment, abuse, or spam. 
+    - A resource section that provides links to relevant and reliable sources of information and support services for domestic violence survivors, such as hotlines, shelters, counseling, legal aid, etc. Users can also suggest or request new resources to be added to the section.
+
+# This project was created using React, see below for how to use and install on your local machine. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -83,7 +83,7 @@ function ResourcesPage() {
         </div>
        
     </div>
-
+ {/** 
     <ul>
         <li>
           <h4>Grand Rapids Michigan </h4>
@@ -132,6 +132,7 @@ function ResourcesPage() {
             <p>Some description...</p>
         </ul>
     </ul>
+    */}
     <div style={{marginLeft: "1rem", marginBottom: "1rem"}}>
     <AddResource/>
     </div>

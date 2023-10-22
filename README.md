@@ -10,9 +10,9 @@
 
 # Beyond-the-Trauma-Community-Forum
 
-## We propose to create an online forum called Beyond the Trauma Community Forum, a platform for women who are domestic violence survivors to find peer support, information, and resources. 
+### We propose to create an online forum called Beyond the Trauma Community Forum, a platform for women who are domestic violence survivors to find peer support, information, and resources. 
 
-## Domestic violence is a pervasive and complex issue that affects millions of women worldwide. Many survivors face barriers to accessing support services, such as stigma, isolation, fear, or lack of resources. They may also struggle with emotional and psychological trauma, low self-esteem, and lack of empowerment. How can we create a safe and supportive online space for women who are domestic violence survivors to connect, share, and heal?
+### Domestic violence is a pervasive and complex issue that affects millions of women worldwide. Many survivors face barriers to accessing support services, such as stigma, isolation, fear, or lack of resources. They may also struggle with emotional and psychological trauma, low self-esteem, and lack of empowerment. How can we create a safe and supportive online space for women who are domestic violence survivors to connect, share, and heal?
 
 
 ## We would like to implement more features including: 

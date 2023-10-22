@@ -6,7 +6,7 @@ function Tactic2() {
 <>
 <ForumData
 title="Intimidation"
-text="Some examples of using inimmidation are:" 
+text="Some examples of using intimidation are:" 
 list ="using looks, actions or gestures"
 list2="smashing things"
 list3="destroying property"

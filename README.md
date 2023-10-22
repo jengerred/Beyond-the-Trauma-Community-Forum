@@ -22,9 +22,9 @@
     - A resource section that provides links to relevant and reliable sources of information and support services for domestic violence survivors, such as hotlines, shelters, counseling, legal aid, etc. Users can also suggest or request new resources to be added to the section.
 
 ## The src folder in this repository contains the following:
-    - A components folder with code for each webpage element.
+    - A components folder with code for each reusable webpage element.
     - An images folder containing project visualizations.
-    - A pages folder with code for each section.
+    - A pages folder with code for each page.
 
 <img width="231" alt="Screen Shot 2023-10-22 at 3 45 49 PM" src="https://github.com/jengerred/Beyond-the-Trauma-Community-Forum/assets/56004257/7477e6ca-294c-4e13-a981-d23a2aeefc8c">
 

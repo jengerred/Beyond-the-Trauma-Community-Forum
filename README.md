@@ -1,6 +1,8 @@
 ## Visit the live site here: https://beyond-the-trauma-community-forum.vercel.app/
 
 ### [YouTube Project Walk-Through](https://www.youtube.com/watch?v=JpDfWvaxCas)
+### [Presentation Slides](https://docs.google.com/presentation/d/1xS5HuOiL2cJG1-GnMjAOsjypIAyNtYsA/edit?usp=sharing&ouid=116789121767476100626&rtpof=true&sd=true)
+
 
 # Team Members:
 ### Jennifer Gerred: https://github.com/jengerred 
